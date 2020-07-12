@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/exitir/face-detection-application/static/css/main.6dac85b7.chunk.css",
+    "main.js": "/exitir/face-detection-application/static/js/main.d098b8dc.chunk.js",
+    "main.js.map": "/exitir/face-detection-application/static/js/main.d098b8dc.chunk.js.map",
+    "runtime-main.js": "/exitir/face-detection-application/static/js/runtime-main.e24aa572.js",
+    "runtime-main.js.map": "/exitir/face-detection-application/static/js/runtime-main.e24aa572.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/exitir/face-detection-application/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.bffb4b8a.chunk.js": "/exitir/face-detection-application/static/js/2.bffb4b8a.chunk.js",
+    "static/js/2.bffb4b8a.chunk.js.map": "/exitir/face-detection-application/static/js/2.bffb4b8a.chunk.js.map",
+    "index.html": "/exitir/face-detection-application/index.html",
+    "precache-manifest.4593189b69f1dfc42b289d8f0e125be0.js": "/exitir/face-detection-application/precache-manifest.4593189b69f1dfc42b289d8f0e125be0.js",
+    "service-worker.js": "/exitir/face-detection-application/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/exitir/face-detection-application/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.6dac85b7.chunk.css.map": "/exitir/face-detection-application/static/css/main.6dac85b7.chunk.css.map",
+    "static/js/2.bffb4b8a.chunk.js.LICENSE.txt": "/exitir/face-detection-application/static/js/2.bffb4b8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e24aa572.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.bffb4b8a.chunk.js",
+    "static/css/main.6dac85b7.chunk.css",
+    "static/js/main.d098b8dc.chunk.js"
+  ]
+}
